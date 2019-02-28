@@ -1,0 +1,21 @@
+body{
+	background-color: #696969;
+	color: #FBFBFB;
+}
+
+h1, h2{
+	color: #6FB4CB;
+}
+a{
+	color: #D84848;
+}
+a:hover{
+	text-decoration: none;
+}
+span{
+	color: yellow;
+}
+.img{
+	width: 80px;
+	border: 1px solid red;
+}
